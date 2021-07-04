@@ -32,8 +32,8 @@
     </dependencies>
 
     <scm>
-        <developerConnection>scm:git:https://github.com/katsoras/mb2g-release-plugin.git</developerConnection>
-        <url>https://github.com/katsoras/mb2g-release-plugin</url>
+        <developerConnection>scm:git:https://github.com/katsoras/learn-csm</developerConnection>
+        <url>https://github.com/katsoras/learn-csm</url>
         <tag>learn-csm-1.0</tag>
     </scm>
 
